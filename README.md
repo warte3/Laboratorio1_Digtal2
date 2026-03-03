@@ -1,6 +1,3 @@
 # Laboratorio1_Digtal2
 
-Este proyecto consta de un juego de reflejos en el que se mide que tan rapido reacciona
-la persona a un estimulo. El juego tiene tres modos, un solo jugador, dos jugadores y un
-simon dice. se implemento un sistema de temporizacion con el cual se mide que tan rapido
-reacciona el jugador.
+Este proyecto consta de un juego de reflejos en el que se mide qué tan rápido reacciona la persona a un estímulo. El juego tiene tres modos: un solo jugador, dos jugadores y un Simón dice. Se implementó un sistema de temporización con el cual se mide qué tan rápido reacciona el jugador.
